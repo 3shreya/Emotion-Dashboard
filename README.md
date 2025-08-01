@@ -1,4 +1,4 @@
-# 🎵 Emotion Dashboard
+#  Emotion Dashboard
 
 A **Streamlit-based web app** that analyzes your favorite songs to detect emotions (simulated) and visualize mood trends using **interactive charts** (bar chart, pie chart, heatmap).
 
